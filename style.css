@@ -1,0 +1,56 @@
+
+@import url('https://fonts.cdnfonts.com/css/codec-pro');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 150px;
+}
+#img{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#email{
+    
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+#senha{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+input{
+    height: 28px;
+    width: 275px;
+}
+h1{
+    font-family: 'Codec Pro', sans-serif;
+    font-size: 20px;                                  
+}
+#bnt{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bnt1{
+    border-radius: 10px;
+    border: 1px solid;
+    font-size: 20px;
+    background-color: #050A30;
+}
+a{
+    text-decoration: none;    
+    color: #F29C1A;
+}
